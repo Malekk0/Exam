@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 173a954630dc96665248d09360cd260d?>
+<?validation-md5-digest bf81a13673c86f1c3ae07fa0479b1347?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>MARS</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>19</revision>
+			<revision>21</revision>
 			<documentID>94B1EBA1-76AC-405F-BA7A-33978050D556</documentID>
-			<versionID>8D52DE72-455A-45A6-B860-94F2722CB7B1</versionID>
+			<versionID>CB940F60-D3AE-4DEE-9537-131B1A07DB21</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -107,36 +107,21 @@
 		</editor>
 		<fileFormat image-type="image/png" image-quality="75" save-numeric-results="true" exclude-large-results="true" save-text-images="false" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="57" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+			<handbook handbook-region-tag-ub="51" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
 		</miscellaneous>
 	</settings>
 	<regions>
-		<region region-id="55" left="6" top="8.25" width="405" height="24" align-x="38.25" align-y="18" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
-			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Статистической зависимостью называется зависимость, при которой изменение одной из величин влечёт за собой изменение другой.</p>
-			</text>
-		</region>
-		<region region-id="56" left="6" top="38.25" width="423" height="24" align-x="15.75" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
-			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Если при изменении одной из величин изменяется среднее значение другой, то зависимость называется корреляционной</p>
-			</text>
-		</region>
-		<region region-id="57" left="6" top="68.25" width="279.75" height="12" align-x="19.5" align-y="78" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
-			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Задача - определить связь между признаками (величинами). </p>
-			</text>
-		</region>
-		<region region-id="29" left="12" top="164.25" width="41.25" height="12" align-x="27.75" align-y="174" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="29" left="12" top="20.25" width="41.25" height="12" align-x="27.75" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Модель: </p>
 			</text>
 		</region>
-		<region region-id="32" left="12" top="182.25" width="45" height="12" align-x="14.25" align-y="192" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="32" left="12" top="38.25" width="45" height="12" align-x="14.25" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">y = a + bx</p>
 			</text>
 		</region>
-		<region region-id="33" left="12" top="212.25" width="110.25" height="37.5" align-x="24.75" align-y="228" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33" left="12" top="68.25" width="110.25" height="37.5" align-x="24.75" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="true">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">b</ml:id>
@@ -170,7 +155,7 @@
 			</math>
 			<rendering item-idref="1"/>
 		</region>
-		<region region-id="43" left="144" top="219" width="86.25" height="12.75" align-x="155.25" align-y="228" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="43" left="144" top="75" width="86.25" height="12.75" align-x="155.25" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="true">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">a</ml:id>
@@ -193,7 +178,7 @@
 			</math>
 			<rendering item-idref="2"/>
 		</region>
-		<region region-id="45" left="12" top="261" width="117" height="33" align-x="44.25" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="45" left="12" top="117" width="117" height="33" align-x="44.25" align-y="138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="true">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:function>
@@ -237,18 +222,18 @@
 								</ml:apply>
 							</ml:apply>
 						</ml:apply>
-						<ml:id xml:space="preserve">N</ml:id>
+						<ml:id xml:space="preserve">n</ml:id>
 					</ml:apply>
 				</ml:define>
 			</math>
 			<rendering item-idref="3"/>
 		</region>
-		<region region-id="47" left="12" top="320.25" width="159.75" height="12" align-x="40.5" align-y="330" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="47" left="12" top="176.25" width="159.75" height="12" align-x="40.5" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
 				<p style="Normal" margin-left="0" margin-right="0" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">Коэффициент линейной корреляции</p>
 			</text>
 		</region>
-		<region region-id="49" left="12" top="356.25" width="108.75" height="31.5" align-x="23.25" align-y="372" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="49" left="12" top="212.25" width="108.75" height="31.5" align-x="23.25" align-y="228" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="true">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">r</ml:id>
@@ -282,7 +267,7 @@
 			</math>
 			<rendering item-idref="4"/>
 		</region>
-		<region region-id="51" left="12" top="398.25" width="397.5" height="24" align-x="13.5" align-y="408" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="51" left="12" top="254.25" width="397.5" height="24" align-x="13.5" align-y="264" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="false">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">r в диапазоне от -1 до 1. В 0 - не связаны. + или - зависит от знака зависимости (+ =&gt; с возрастанием x, возрастает и y)</p>
 			</text>
@@ -322,24 +307,23 @@ X0qieFxvwT7yJPP8vLnqpGNsjKXtIaELaxNwjmpfQyOv0JjG4ITNE4451ta+M7+MfiWCMKsY
 ffVPkw8wOm2CmZ8m3wm2fKUaQVijiyp53AK/k47GkgPaHmAmgu0lCsEqphbVOHnfe/4zZI0t
 x7Q9xMyXfUL4Aej3tT7LiWcqAAAAAElFTkSuQmCC</item>
 		<item item-id="3">iVBORw0KGgoAAAANSUhEUgAAAJwAAAAsCAYAAACQctE4AAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANmSURBVHhe7ZsJkoMgEEVzLg/keTiN
-l/EwTncDyiowRuLyX5WTmIhWmkez6HwWAE7k8/n4m/kcgFOAcKArEA50BcKBrkA40BUI9xPm
-RY2K/p5Jj2sc5wXCUUUMunWN07SM9DqoUrXo43SrHGmPmNUyuPtNXEW438fiJRmOgzYsaqaA
-q8oQmaCOzuGzGukcZqeJqwjH/DYW7+lSJWgcaLNfwayG5TPYSqSKciNeZMsm0bae8yj/vEb3
-WGy8R7iJgkyVU+5CXHSFcmz/n92Y2uxzhIZr/DAW7xCOW7S0SA6a37KnsRD4acxmjGLZlQsJ
-txOLIjuxqOU9kwbdNL3BrnQTtF+ShsWSOnKoLatpkIHOqX3IvM9Sc418LGpJxaKF93SpGVic
-fWnyFVku+zQqG84OEK4kDXUjuRb9HOF45kqZrtRlJmNRWdYA4TLScNchAdzpP54hnOlm199q
-l030t0w+FuWyIRDugDSPy3DyniVqmUy0lYVwEI6AcN2AcAyE6wILI+MP2lrFOVL2arhjtPV3
-Va61tZY1wrGZpuBqa4hzjHdC1/AWqFzljwLPwctw1tZoMsLQtHegdOnPVFi2lvQbIIuP/5EV
-3BVPuFmpRXFaTGSeaRzlO7f7YEGTcrbA6zeHTwLuQiTcJFkrEIky0UiieYNkzk6emFuXuz1r
-ReW4C5bNZLLolkphoGmOh5PPICEcv/pZzv3cCifHRBbYLpYkss9aJYQJnzaoy5TuODPYYONt
-SAqnxbES0HtToaFwydmZCOZnLF/g7XyW7Lm+QFJQbKdvOTLC6azDkkxONqoSLvmslc5O7Fnq
-Wao64ZDhnoAnHE8M1qqzYy2nMkVCJ9tFFc1l5LPEuGzn5u5XJh/gFhjh/OxhK38TIcguLA3L
-5cljjuECVtZgySMtVkJOF3MuCPkM8p1tBW2ZicRKPUuFZZFXcUg4ssXMSs3uHiRW5JVkLyz8
-vomDwjHcJealkXEfd6+RbSwrZBPWIUgQJ/fzxNj3jnxBOPAtZCJGcvltkxp07f+P3gAIdyFk
-WUpm827mh3DgJOw6qAxD1i4UwoGTCO/06MVwCAdOwr3TQztm/RHCgZPwhCP0JIJv+0E4cALx
-fWbKbvbuzUOAcBdhXa+MFtLjp2vuDIQDXYFwoCsQDnQFwoGOLMsfgb9ZqnJiWbgAAAAASUVO
-RK5CYII=</item>
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM+SURBVHhe7ZqNkYMgEEaty4Koh2ps
+xmK83QUUFATihah8b8a7mAiZLI/lR4cFgC8yDEN42PcB+AoQDjQFwoGmQDjQFAgHmgLhfsK8
+aKXp7zdp8R3X6UA4aojR9C41TYui/6PONYu5zvRKRWfErJfRP6/iLsL9PhadZDgO2rjomQKu
+C0Nkg6q8y2etqA57UsVdhGN+G4t+hlQJGgfanhcw63EZRteI1FB+xLNs2eRwrHVe5cPvaB6L
+jX6EmyjI1Dj5IcTHNCjH9vPsxpRmnytUfMcPY9GHcNyjpUdy0MKePalM4CeVzBjZsis3Eu4k
+FllOYlFKP4sG0zWDya4ME3Sek4bFkjbyKC1rqJCB6jQ+JF4nKfmOdCxKicWihn6G1AQszrk0
+6YbMl30bhR3nBAiXk4aGkVSPfo9wvHKlTJcbMqOxKCxrgXAJaXjokACejB/vEM4Os+tvddsm
+5lMmHYt82T0Q7oI0r8tw8polqllM1JWFcBCOgHDNgHAMhGsCCyPzDzpqxblS9m74c7T1dxXu
+tdWWtcKxmbbgause75qgQt/wGqhc4Y8C7yHIcM7Ww2KEoWXvSOkyXKmwbDXpd4dsPn4iK3gq
+gXCz1ovmtBjJPJNS8pk/fLCgUTlr4P2by5WAp3AQbpKstROJMpEi0YJJMmenQMxtyN2etaJy
+PATLYTPZ4ZZKZqJpr4eT7yAiHP8Ps5z/vhNOrjlY4IZYksg9axURZv+0QVmm9OeZuwM2Poao
+cEYcJwG9tg26Fy66OhPBwowVCrzV50jW9Q9EBcXx9SNFQjiTdViSyctGRcJFn7Uy2Yk9iz1L
+VSYcMtwbCITjhcHadG6u5TWmSOhlu0NDcxl5LzIvO7m5+y+LD/AIrHBh9nCNv4mwyy4sDcsV
+yGOv4QJO1t2WR1ysiJw+ti4I+Q7Sg20BdZmJxIo9S4Vtka64JBzZYlel9vQMEuvglWQvbPz2
+xEXhGB4S09LIvI+H14NtLCtk641/EA6AciAcaAqEuxsyr+V5sdl8j09HnguEuxWeZG5+K/uX
+hQuzBwDh7saa4RLnDwfC3Q0IB5oC4UA7/FuIPIfzziP3oJ8IhANNgXCgKRAONAXCgYYsyx88
+0mRDY2ACBAAAAABJRU5ErkJggg==</item>
 		<item item-id="4">iVBORw0KGgoAAAANSUhEUgAAAJEAAAAqCAYAAACz1bmVAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN4SURBVHhe7ZvdlYIwEIWti4KowhJ8
 oJZ9oA7ffbIDO8jO5EeSkEBCEjG79zuH44IQZq53BlzMRQCQyeVycRe9HYBkYCJQDEwEivkC
