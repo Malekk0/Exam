@@ -1,0 +1,6 @@
+D:\C#Projects\GOS\GradientMethod\GradientMethod\bin\Debug\GradientMethod.exe.config
+D:\C#Projects\GOS\GradientMethod\GradientMethod\bin\Debug\GradientMethod.exe
+D:\C#Projects\GOS\GradientMethod\GradientMethod\bin\Debug\GradientMethod.pdb
+D:\C#Projects\GOS\GradientMethod\GradientMethod\obj\Debug\GradientMethod.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\GradientMethod\GradientMethod\obj\Debug\GradientMethod.exe
+D:\C#Projects\GOS\GradientMethod\GradientMethod\obj\Debug\GradientMethod.pdb

@@ -1,0 +1,27 @@
+D:\303P\Dy\Dy\bin\Debug\Dy.exe.config
+D:\303P\Dy\Dy\bin\Debug\Dy.exe
+D:\303P\Dy\Dy\bin\Debug\Dy.pdb
+D:\303P\Dy\Dy\obj\Debug\Dy.csprojResolveAssemblyReference.cache
+D:\303P\Dy\Dy\obj\Debug\Dy.Form1.resources
+D:\303P\Dy\Dy\obj\Debug\Dy.Properties.Resources.resources
+D:\303P\Dy\Dy\obj\Debug\Dy.csproj.GenerateResource.Cache
+D:\303P\Dy\Dy\obj\Debug\Dy.exe
+D:\303P\Dy\Dy\obj\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\bin\Debug\Dy.exe.config
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.exe
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\bin\Debug\Dy.exe
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\bin\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.Form1.resources
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.Properties.Resources.resources
+D:\Уроки\Численные методы\DyPynge\Dy\Dy\obj\Debug\Dy.csproj.GenerateResource.Cache
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\bin\Debug\Dy.exe.config
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.exe
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.pdb
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\bin\Debug\Dy.exe
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\bin\Debug\Dy.pdb
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.Form1.resources
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.Properties.Resources.resources
+D:\C#Projects\GOS\Dy_Pynge\Dy\Dy\obj\Debug\Dy.csproj.GenerateResource.Cache

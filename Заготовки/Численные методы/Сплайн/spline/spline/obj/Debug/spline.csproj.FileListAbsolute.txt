@@ -1,0 +1,45 @@
+D:\303P\spline\spline\bin\Debug\spline.exe.config
+D:\303P\spline\spline\bin\Debug\spline.exe
+D:\303P\spline\spline\bin\Debug\spline.pdb
+D:\303P\spline\spline\obj\Debug\spline.csprojResolveAssemblyReference.cache
+D:\303P\spline\spline\obj\Debug\spline.Form1.resources
+D:\303P\spline\spline\obj\Debug\spline.Properties.Resources.resources
+D:\303P\spline\spline\obj\Debug\spline.csproj.GenerateResource.Cache
+D:\303P\spline\spline\obj\Debug\spline.exe
+D:\303P\spline\spline\obj\Debug\spline.pdb
+D:\Уроки\Численные методы\spline\spline\spline\bin\Debug\spline.exe.config
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.exe
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.pdb
+D:\Уроки\Численные методы\spline\spline\spline\bin\Debug\spline.exe
+D:\Уроки\Численные методы\spline\spline\spline\bin\Debug\spline.pdb
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.Form1.resources
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.Properties.Resources.resources
+D:\Уроки\Численные методы\spline\spline\spline\obj\Debug\spline.csproj.GenerateResource.Cache
+D:\303P\spline (2)\spline\spline\spline\bin\Debug\spline.exe.config
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.exe
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.pdb
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.csprojResolveAssemblyReference.cache
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.Form1.resources
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.Properties.Resources.resources
+D:\303P\spline (2)\spline\spline\spline\obj\Debug\spline.csproj.GenerateResource.Cache
+D:\303P\spline (2)\spline\spline\spline\bin\Debug\spline.exe
+D:\303P\spline (2)\spline\spline\spline\bin\Debug\spline.pdb
+D:\Уроки\Численные методы\splinenew\spline\spline\bin\Debug\spline.exe.config
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.exe
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.pdb
+D:\Уроки\Численные методы\splinenew\spline\spline\bin\Debug\spline.exe
+D:\Уроки\Численные методы\splinenew\spline\spline\bin\Debug\spline.pdb
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.Form1.resources
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.Properties.Resources.resources
+D:\Уроки\Численные методы\splinenew\spline\spline\obj\Debug\spline.csproj.GenerateResource.Cache
+D:\C#Projects\GOS\Сплайн\spline\spline\bin\Debug\spline.exe.config
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.exe
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.pdb
+D:\C#Projects\GOS\Сплайн\spline\spline\bin\Debug\spline.exe
+D:\C#Projects\GOS\Сплайн\spline\spline\bin\Debug\spline.pdb
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.Form1.resources
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.Properties.Resources.resources
+D:\C#Projects\GOS\Сплайн\spline\spline\obj\Debug\spline.csproj.GenerateResource.Cache

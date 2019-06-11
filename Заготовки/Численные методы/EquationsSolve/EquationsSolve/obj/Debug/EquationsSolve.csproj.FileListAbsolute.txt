@@ -1,0 +1,9 @@
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\bin\Debug\EquationsSolve.exe.config
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\bin\Debug\EquationsSolve.exe
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\bin\Debug\EquationsSolve.pdb
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.Form1.resources
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.Properties.Resources.resources
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.csproj.GenerateResource.Cache
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.exe
+D:\C#Projects\GOS\EquationsSolve\EquationsSolve\obj\Debug\EquationsSolve.pdb

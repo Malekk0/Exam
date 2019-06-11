@@ -1,0 +1,9 @@
+D:\Уроки\Численные методы\spline\spline\spline\bin\Release\spline.exe.config
+D:\Уроки\Численные методы\spline\spline\spline\bin\Release\spline.exe
+D:\Уроки\Численные методы\spline\spline\spline\bin\Release\spline.pdb
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.Form1.resources
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.Properties.Resources.resources
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.csproj.GenerateResource.Cache
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.exe
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.pdb
+D:\Уроки\Численные методы\spline\spline\spline\obj\Release\spline.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\bin\Debug\TridiagonalMatrixMethod.exe.config
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\bin\Debug\TridiagonalMatrixMethod.exe
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\bin\Debug\TridiagonalMatrixMethod.pdb
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\obj\Debug\TridiagonalMatrixMethod.exe
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\obj\Debug\TridiagonalMatrixMethod.pdb
+D:\C#Projects\GOS\TridiagonalMatrixMethod\TridiagonalMatrixMethod\obj\Debug\TridiagonalMatrixMethod.csprojResolveAssemblyReference.cache

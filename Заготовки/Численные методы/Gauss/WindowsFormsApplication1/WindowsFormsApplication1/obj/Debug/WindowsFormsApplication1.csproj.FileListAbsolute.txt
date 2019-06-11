@@ -1,0 +1,68 @@
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\303P\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\mscorlib.resources.dll
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\303P\Matrix_25\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\mscorlib.resources.dll
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Уроки\Численные методы\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Уроки\Численные методы\eeeMatrix\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#Projects\GOS\Gauss\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

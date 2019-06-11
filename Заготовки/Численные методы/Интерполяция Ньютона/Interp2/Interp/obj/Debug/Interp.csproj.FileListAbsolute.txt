@@ -1,0 +1,18 @@
+D:\303P\Interp\Interp\bin\Debug\Interp.exe.config
+D:\303P\Interp\Interp\bin\Debug\Interp.exe
+D:\303P\Interp\Interp\bin\Debug\Interp.pdb
+D:\303P\Interp\Interp\obj\Debug\Interp.csprojResolveAssemblyReference.cache
+D:\303P\Interp\Interp\obj\Debug\Interp.Form1.resources
+D:\303P\Interp\Interp\obj\Debug\Interp.Properties.Resources.resources
+D:\303P\Interp\Interp\obj\Debug\Interp.csproj.GenerateResource.Cache
+D:\303P\Interp\Interp\obj\Debug\Interp.exe
+D:\303P\Interp\Interp\obj\Debug\Interp.pdb
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\bin\Debug\Interp.exe.config
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.exe
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.pdb
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\bin\Debug\Interp.exe
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\bin\Debug\Interp.pdb
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.Form1.resources
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.Properties.Resources.resources
+D:\C#Projects\GOS\Интерполяция Ньютона\Interp2\Interp\obj\Debug\Interp.csproj.GenerateResource.Cache

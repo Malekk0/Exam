@@ -1,0 +1,9 @@
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\bin\Debug\Dy_EulerMethod.exe.config
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.Form1.resources
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.Properties.Resources.resources
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.csproj.GenerateResource.Cache
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\bin\Debug\Dy_EulerMethod.exe
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\bin\Debug\Dy_EulerMethod.pdb
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.exe
+D:\C#Projects\GOS\Dy_EulerMethod\Dy_EulerMethod\obj\Debug\Dy_EulerMethod.pdb

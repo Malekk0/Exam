@@ -1,0 +1,6 @@
+D:\C#Projects\GOS\Integrals\Integrals\bin\Debug\Integrals.exe.config
+D:\C#Projects\GOS\Integrals\Integrals\bin\Debug\Integrals.exe
+D:\C#Projects\GOS\Integrals\Integrals\bin\Debug\Integrals.pdb
+D:\C#Projects\GOS\Integrals\Integrals\obj\Debug\Integrals.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\Integrals\Integrals\obj\Debug\Integrals.exe
+D:\C#Projects\GOS\Integrals\Integrals\obj\Debug\Integrals.pdb

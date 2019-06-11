@@ -1,0 +1,18 @@
+D:\303P\II\Dy\Dy\bin\Debug\Dy.exe.config
+D:\303P\II\Dy\Dy\bin\Debug\Dy.exe
+D:\303P\II\Dy\Dy\bin\Debug\Dy.pdb
+D:\303P\II\Dy\Dy\obj\Debug\Dy.csprojResolveAssemblyReference.cache
+D:\303P\II\Dy\Dy\obj\Debug\Dy.Form1.resources
+D:\303P\II\Dy\Dy\obj\Debug\Dy.Properties.Resources.resources
+D:\303P\II\Dy\Dy\obj\Debug\Dy.csproj.GenerateResource.Cache
+D:\303P\II\Dy\Dy\obj\Debug\Dy.exe
+D:\303P\II\Dy\Dy\obj\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\bin\Debug\Dy.exe.config
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.exe
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\bin\Debug\Dy.exe
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\bin\Debug\Dy.pdb
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.csprojResolveAssemblyReference.cache
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.Form1.resources
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.Properties.Resources.resources
+D:\Уроки\Численные методы\DyAdemc\DyAdemc\Dy\obj\Debug\Dy.csproj.GenerateResource.Cache
