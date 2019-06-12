@@ -1,0 +1,6 @@
+D:\C#Projects\GOS\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\C#Projects\GOS\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\C#Projects\GOS\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\C#Projects\GOS\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+D:\C#Projects\GOS\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\C#Projects\GOS\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
